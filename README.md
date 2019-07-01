@@ -5,4 +5,4 @@
 ### 安装
 npm install react-native-swiper-fix-viewpager --save
 
-### 其他用法详情参见[react-native-swiper](https://github.com/leecade/react-native-swiper)组件
+### 其他用法同[react-native-swiper](https://github.com/leecade/react-native-swiper)组件
