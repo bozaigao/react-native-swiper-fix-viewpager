@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@react-native-community/viewpager@^1.1.7":
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/@react-native-community/viewpager/-/viewpager-1.1.7.tgz#7d3b1631f1ec91145db92a8e25c80d53027e96ba"
+
 abab@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.3.tgz#b81de5f7274ec4e756d797cd834f303642724e5d"
@@ -1861,8 +1865,8 @@ home-or-tmp@^2.0.0:
     os-tmpdir "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.5.0.tgz#6d60e34b3abbc8313062c3b798ef8d901a07af3c"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 html-encoding-sniffer@^1.0.1:
   version "1.0.1"
@@ -3274,8 +3278,9 @@ react-devtools-core@^2.5.0:
     ws "^2.0.3"
 
 react-native-swiper@../:
-  version "1.5.12"
+  version "1.0.0"
   dependencies:
+    "@react-native-community/viewpager" "^1.1.7"
     prop-types "^15.5.10"
 
 react-native@0.48.4:
